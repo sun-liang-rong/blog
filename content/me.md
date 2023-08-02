@@ -1,7 +1,24 @@
-# Rock Chen
+# Sun Sun
+
+### 你好？
+<!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <!-- <a href="https://sunsunblog.top/"> -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" alt="sunsun" />
+    <!-- </a> -->
+  </div>
+   <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <br>
 
 ### 爱好？
-喜欢编程，喜欢学习，喜欢不能当饭吃的哲学，喜欢写被现代打印代替的钢笔字
+<p>大家好，我是小孙同学。</p>
+<p>热爱编程、摄影、读书、旅行。</p>
+<p>热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
+<p>我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>
+  <strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong>
+</p>
 
 ### 博客？
 我的博客会不定时更新一些我的学习笔记和生活感想，喜欢的话可以多留意，但是不能保证文章质量和频率，毕竟都是随性记录
@@ -43,7 +60,7 @@
 
 ### 我是谁？
 
-我是 Rock Chen, 一个在钢铁和水泥的森林里默默搬砖的前端码农
+我是 Sun Sun, 一个在钢铁和水泥的森林里默默搬砖的前端码农
 
 联系我：
-- 📨 chen.dev@foxmail.com
+- 📨 2531636478@qq.com

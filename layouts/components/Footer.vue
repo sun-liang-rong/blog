@@ -6,9 +6,9 @@ import { siteConfig } from '@/site.config'
   <footer class="pt-5em">
     <div class="flex items-center flex-col md:flex-row gap-1em">
       <span class="op-50 text-sm">
-        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer" class="link">
-          CC BY-NC-SA 4.0
-        </a>
+        <!-- <a href="" target="_blank" rel="noopener noreferrer" class="link"> -->
+        京ICP备2022018355号
+        <!-- </a> -->
         2023-PRESENT © {{ siteConfig.author }}
       </span>
     </div>

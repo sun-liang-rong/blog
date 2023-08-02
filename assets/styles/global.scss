@@ -52,6 +52,7 @@ html,
 body,
 #nuxt-root {
   height: 100%;
+  overflow-x: hidden;
 }
 
 html {

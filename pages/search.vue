@@ -34,7 +34,7 @@ watch(searchValue, getQueryResult)
 
 <template>
   <h1 class="text-title mb-2em font-bold">
-    Search
+    搜搜
   </h1>
   <div class="slide-enter-content">
     <input v-model="searchValue" placeholder="Search post title / description / tag" class="search-input mb-2em">
